@@ -1,0 +1,30 @@
+{
+  "data": {
+    "deployment": {
+      "deploymentNames": [
+        "direct"
+      ],
+      "deploymentURIsLocal": [
+        "http://unleash.unleash-production:80"
+      ],
+      "deploymentURIsPublic": [
+        "http://unleash.unleash-production.public.demo.keptn.sh:80"
+      ],
+      "deploymentstrategy": "direct",
+      "gitCommit": "c24c75eb7a04589e92d9269fd24c152ea1062bc3"
+    },
+    "message": "Successfully deployed",
+    "project": "unleash",
+    "result": "pass",
+    "service": "unleash",
+    "stage": "production",
+    "status": "succeeded"
+  },
+  "id": "aa149113-a81a-4e59-9459-5ec122297b14",
+  "source": "helm-service",
+  "specversion": "1.0",
+  "time": "2021-03-09T16:19:17.381Z",
+  "type": "sh.keptn.event.deployment.finished",
+  "shkeptncontext": "ad7f4d31-156c-478f-bc17-6894ed57122a",
+  "triggeredid": "aa25303d-a528-42a9-b6b2-e39473ae4bb2"
+}

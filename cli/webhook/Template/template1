@@ -1,0 +1,8 @@
+source: {{ source }}
+type: {{ type }}
+time: {{ time }}
+{% for d in data %}
+    {% if d == "status" %}
+        ad
+    {%- endif %}
+{%- endfor %}
