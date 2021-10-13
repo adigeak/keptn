@@ -7,7 +7,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.3.1
 	github.com/ghodss/yaml v1.0.0
 	github.com/gin-gonic/gin v1.6.3
-	github.com/go-test/deep v1.0.5
+	github.com/go-test/deep v1.0.8
 	github.com/google/uuid v1.2.0
 	github.com/jeremywohl/flatten v1.0.1
 	github.com/keptn/go-utils v0.8.4-0.20210506073402-95bb36d6f884
