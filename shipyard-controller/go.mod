@@ -11,10 +11,11 @@ require (
 	github.com/google/uuid v1.2.0
 	github.com/jeremywohl/flatten v1.0.1
 	github.com/keptn/go-utils v0.8.4-0.20210506073402-95bb36d6f884
+	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.7.0
 	github.com/swaggo/swag v1.7.0
-	go.mongodb.org/mongo-driver v1.4.6
+	go.mongodb.org/mongo-driver v1.8.2
 	k8s.io/api v0.17.2
 	k8s.io/apimachinery v0.17.2
 	k8s.io/client-go v0.17.2
