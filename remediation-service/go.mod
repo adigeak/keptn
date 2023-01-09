@@ -5,7 +5,7 @@ go 1.16
 require (
 	cloud.google.com/go v0.40.0 // indirect
 	github.com/Azure/go-autorest/autorest v0.9.0 // indirect
-	github.com/cloudevents/sdk-go/v2 v2.3.1
+	github.com/cloudevents/sdk-go/v2 v2.13.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/strfmt v0.20.0
 	github.com/go-openapi/validate v0.20.2 // indirect
@@ -14,7 +14,6 @@ require (
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/google/uuid v1.2.0
 	github.com/gophercloud/gophercloud v0.9.0 // indirect
-	github.com/json-iterator/go v1.1.9 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/keptn/go-utils v0.8.4-0.20210506073402-95bb36d6f884
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
@@ -23,7 +22,6 @@ require (
 	github.com/xdg/stringprep v1.0.0 // indirect
 	go.mongodb.org/mongo-driver v1.4.6
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d // indirect
-	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/api v0.17.0 // indirect
 	k8s.io/apimachinery v0.17.0 // indirect
