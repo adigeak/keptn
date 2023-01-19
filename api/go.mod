@@ -15,10 +15,10 @@ require (
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/keptn/go-utils v0.8.4-0.20210506073402-95bb36d6f884
 	github.com/keptn/kubernetes-utils v0.8.2-0.20210506073412-a06581ae8a26
-	github.com/stretchr/testify v1.7.0
-	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
+	github.com/stretchr/testify v1.8.0
+	golang.org/x/net v0.3.1-0.20221206200815-1e63c2f08a10
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.20.4
-	k8s.io/apimachinery v0.20.4
+	k8s.io/apimachinery v0.26.1
 	k8s.io/client-go v0.20.4
 )
